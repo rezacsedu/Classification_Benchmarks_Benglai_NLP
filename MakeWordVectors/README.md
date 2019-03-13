@@ -21,7 +21,7 @@ Our BengWord2Vec is technically a Word2Vec model, which is based on 250 articles
 ## Pre-trained BengWord2Vec model
 | Language  |  UTF-8 | Vector Size | Corpus Size  | Vocabulary Size | 
 | ---       |---        |---           |---           |---           |
-|[Bengali (BengWord2Vec)](https://drive.google.com/open?id=1Q_45PQpRWQvZL2p8sIngmgg6Tr5YbKmH) \| [Bengali (f)](https://drive.google.com/open?id=1Q_45PQpRWQvZL2p8sIngmgg6Tr5YbKmH)|bn|300|147M |10059| negative sampling |
+|[Bengali (BengWord2Vec)](https://drive.google.com/open?id=1Q_45PQpRWQvZL2p8sIngmgg6Tr5YbKmH) \| [Bengali (f)](https://drive.google.com/open?id=1Q_45PQpRWQvZL2p8sIngmgg6Tr5YbKmH)|bn|300|250M |30059| negative sampling |
 
 * Check [this](https://drive.google.com/open?id=1Q_45PQpRWQvZL2p8sIngmgg6Tr5YbKmH) for the pre-trained BengWord2Vec model.
 
