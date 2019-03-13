@@ -1,4 +1,4 @@
-# Code for preparing BengWord2Vec
+# Code for BengWord2Vec
 
 Our BengWord2Vec is technically a Word2Vec model, which is based on 250 articles. This is based on https://github.com/Kyubyong/wordvectors, implementation but with additional midifications and updates. 
 
