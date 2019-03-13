@@ -10,7 +10,7 @@ Our BengWord2Vec is technically a Word2Vec model, which is based on 250 articles
 * gensim > =0.13.1 (for Word2Vec)
 	
 ## References
-* Check [this](https://github.com/Kyubyong/wordvectors) to know how to prepare Word2Vec model for other languages such as Korean, Japanese, French etc.  embedding is.
+* Check [this](https://github.com/Kyubyong/wordvectors) to know how to prepare Word2Vec model for other languages such as Korean, Japanese, French etc.
 
 ## Workflow of training the BengWord2Vec model 
 * STEP 1. Download the [this](https://dumps.wikimedia.org/backup-index.html) in case you don't want to collect all the raw text.
