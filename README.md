@@ -1,6 +1,6 @@
 # BengWord2Vec model and it's applications
 
-Our BengWord2Vec is technically a Word2Vec model, which is based on 250 articles. This is based on https://github.com/Kyubyong/wordvectors, implementation but with additional midifications and updates. 
+Our BengWord2Vec is technically a Word2Vec model, which is based on 250 million articles. This is based on https://github.com/Kyubyong/wordvectors, implementation but with additional midifications and updates. 
 
 ## Requirements
 * nltk >= 1.11.1
