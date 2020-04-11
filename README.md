@@ -32,8 +32,8 @@ In this paper, we provide several classification benchmarks for Bengali, an unde
 #### Citation request
 If you use the code of this repository in your research, please consider citing the folowing papers:
 
-    @inproceedings{karim2019XAI,
-        title={A Linguistic Analytics Framework for Under-Resource Languages Based on Multichannel Convolutional-LSTM Network},
+    @inproceedings{karim2020BengaliNLP,
+        title={Classification Benchmarks for Under-resourced Bengali Language based on Multichannel Convolutional-LSTM Network},
         author={Md. Rezaul Karim, Bharathi Raja Chakravarti, Mihael Arcan, John P. McCrae, and Michael Cochez},
         journal={Natural Language Engineering},
         year={2019}
@@ -41,4 +41,3 @@ If you use the code of this repository in your research, please consider citing 
 
 #### Contributing
 For any questions, feel free to open an issue or contact at rezaul.karim@rwth-aachen.de
-
