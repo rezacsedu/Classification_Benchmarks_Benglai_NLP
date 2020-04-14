@@ -35,8 +35,8 @@ If you use the code of this repository in your research, please consider citing 
     @inproceedings{karim2020BengaliNLP,
         title={Classification Benchmarks for Under-resourced Bengali Language based on Multichannel Convolutional-LSTM Network},
         author={Md. Rezaul Karim, Bharathi Raja Chakravarti, Mihael Arcan, John P. McCrae, and Michael Cochez},
-        journal={Natural Language Engineering},
-        year={2019}
+        journal={Natural Language Engineering (under review)},
+        year={2020}
     }
 
 #### Contributing
