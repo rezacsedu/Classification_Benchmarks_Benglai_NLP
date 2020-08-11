@@ -1,4 +1,4 @@
-### Classification Benchmarks for Under-resourced Bengali Language based on Multichannel Convolutional-LSTM Network
+### Classification Benchmarks for Under-resourced Bengali Language with Multichannel Convolutional-LSTM Network
 Code and supplementary materials for our paper titled "Classification Benchmarks for Under-resourced Bengali Language based on Multichannel Convolutional-LSTM Network", taccepted as a full paper at 7th IEEE International Conference on Data Science and Advanced Analytics (IEEE DSAA,2020). 
 
 #### Methods
