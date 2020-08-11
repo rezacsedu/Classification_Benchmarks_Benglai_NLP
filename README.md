@@ -1,5 +1,5 @@
 ### Classification Benchmarks for Under-resourced Bengali Language based on Multichannel Convolutional-LSTM Network
-Code and supplementary materials for our paper titled "Classification Benchmarks for Under-resourced Bengali Language based on Multichannel Convolutional-LSTM Network", submitted to Natural Language Engineering journal (Cambridge) [2018 Impact Factor: 1.130]. 
+Code and supplementary materials for our paper titled "Classification Benchmarks for Under-resourced Bengali Language based on Multichannel Convolutional-LSTM Network", taccepted as a full paper at 7th IEEE International Conference on Data Science and Advanced Analytics (IEEE DSAA,2020). 
 
 #### Methods
 Exponential growths of social media and micro-blogging sites not only provide platforms for empowering freedom of expressions and individual voices but also enables people to express anti-social behaviour like online harassment, cyberbullying, and hate speech. Numerous works have been proposed to utilize these data for social and anti-social behaviours analysis, document characterization, and sentiment analysis by predicting the contexts mostly for highly resourced languages such as English. However, there are languages that are under-resources, e.g., South Asian languages like Bengali, Tamil, Assamese, Telugu that lack of computational resources for the (NLP) tasks. 
@@ -21,21 +21,18 @@ In this paper, we provide several classification benchmarks for Bengali, an unde
 * STEP 3. Run `build_corpus.py` using `python3 build_corpus.py`
 * STEP 4. Run `sudo ./make_wordvector.sh` to get the BengFastText word vectors but make sure it's already executable.
 
-#### Pre-trained BengWord2Vec model
+#### Pre-trained BengFastText model
 | Language  |  UTF-8 | Vector Size | Corpus Size  | Vocabulary Size | 
 | ---       |---        |---           |---           |---           |
 |[Bengali (BengFastText)](https://drive.google.com/open?id=1Q_45PQpRWQvZL2p8sIngmgg6Tr5YbKmH) \| [Bengali (f)](https://drive.google.com/open?id=1Q_45PQpRWQvZL2p8sIngmgg6Tr5YbKmH)|bn|300|250M |30059| negative sampling |
-
-* Check [this](https://drive.google.com/open?id=1Q_45PQpRWQvZL2p8sIngmgg6Tr5YbKmH) for the pre-trained BengFastText model.
-
 
 #### Citation request
 If you use the code of this repository in your research, please consider citing the folowing papers:
 
     @inproceedings{karim2020BengaliNLP,
         title={Classification Benchmarks for Under-resourced Bengali Language based on Multichannel Convolutional-LSTM Network},
-        author={Md. Rezaul Karim, Bharathi Raja Chakravarti, Mihael Arcan, John P. McCrae, and Michael Cochez},
-        journal={Natural Language Engineering (under review)},
+        author={Md. Rezaul Karim, Bharathi Raja Chakravarti, John P. McCrae, and Michael Cochez},
+        conference={7th IEEE International Conference on Data Science and Advanced Analytics (IEEE DSAA,2020)},
         year={2020}
     }
 
